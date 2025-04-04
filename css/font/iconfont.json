@@ -1,0 +1,114 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1249",
+      "name": "旺旺",
+      "font_class": "wangwang",
+      "unicode": "f0140",
+      "unicode_decimal": 983360
+    },
+    {
+      "icon_id": "77153",
+      "name": "新浪",
+      "font_class": "xinlang",
+      "unicode": "f0105",
+      "unicode_decimal": 983301
+    },
+    {
+      "icon_id": "109753",
+      "name": "left",
+      "font_class": "left",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "109779",
+      "name": "right",
+      "font_class": "right",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "502805",
+      "name": "tel",
+      "font_class": "tel",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "572583",
+      "name": "weixin",
+      "font_class": "iconfontweixin",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "577393",
+      "name": "顶部",
+      "font_class": "dingbu",
+      "unicode": "e76c",
+      "unicode_decimal": 59244
+    },
+    {
+      "icon_id": "1093910",
+      "name": "15天包退",
+      "font_class": "15tianbaotui01",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "1304892",
+      "name": "右箭头",
+      "font_class": "youjiantou",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "1345370",
+      "name": "qiye2",
+      "font_class": "fonts-qiye",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "2076258",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e88f",
+      "unicode_decimal": 59535
+    },
+    {
+      "icon_id": "6255770",
+      "name": "SIM",
+      "font_class": "SIM",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "8039390",
+      "name": "地点",
+      "font_class": "didian",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "8066241",
+      "name": "yonghu",
+      "font_class": "yonghu",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "9343941",
+      "name": "yijiuhuanxin",
+      "font_class": "yijiuhuanxin",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}
